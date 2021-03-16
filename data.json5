@@ -51,7 +51,7 @@
       },
       // key - value 数量及内容完全自定义，链接自动识别
       keys: {
-        "主页": "http://192.168.0.103:8080",
+        "主页": "http://www.staywithme.top",
         "博客": "https://blog.csdn.net/hgy1329852351"
       },
     },
